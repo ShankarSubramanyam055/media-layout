@@ -1,1 +1,1 @@
-This is a web template layout of the HOME page designed for a Media site. I have used Photoshop; HTML4/HTML5; CSS2/CSS3, JavaScript & jQuery. To, have a look on the layout, visit the link: https://shankarsubramanyam055.github.io/media-layout/media.html
+This is a web template layout of the HOME page designed for a "Media" site. I have used Photoshop; HTML4 / HTML5; CSS2 / CSS3; JavaScript & jQuery. For seeing the output, kindly visit the link: https://shankarsubramanyam055.github.io/media-layout/media.html or https://shankarsubramanyam055.github.io/media-layout/
